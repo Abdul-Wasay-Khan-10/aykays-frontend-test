@@ -27,15 +27,9 @@ const Showcase = () => {
       <Container>
         <div className="showcase-content">
 
-          {/* LEFT SIDE (Phones) */}
+          {/* LEFT SIDE (Image) */}
           <div className="showcase-images">
-            <div className="phone-wrapper phone-1">
-              <img src="/assets/phone1.png" alt="app" />
-            </div>
-
-            <div className="phone-wrapper phone-2">
-              <img src="/assets/phone2.png" alt="app" />
-            </div>
+            <img src="/assets/Group2.png" alt="MyBindle showcase" className="showcase-image" />
           </div>
 
           {/* RIGHT SIDE (Content) */}

@@ -9,7 +9,7 @@ const Hero = () => {
       <Container>
         <div className="hero-header">
           <div className="hero-logo">
-            <img src="/assets/Group2.png" alt="MyBindle Logo" className="logo-image" />
+            <img src="/assets/group3.png" alt="MyBindle Logo" className="logo-image" />
             <h1 className="brand-name">MyBindle</h1>
           </div>
         </div>
